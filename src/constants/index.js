@@ -46,7 +46,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Flutter Developer",
       icon: mobile,
     },
     {
@@ -54,7 +54,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "AI/ML Developer",
       icon: creator,
     },
   ];
@@ -171,41 +171,41 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Groot",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        `A mobile and web application to detect and prevent crop disease using CNN models and LLM's like qwen2.5 and llava`,
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "flutter",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "python",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: 'https://i.ytimg.com/vi/YJl-tzVPGDk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCAqMJUwIYc2GyB7vw5LvW7hxr74w',
+      source_code_link: "https://github.com/sudharsanacernitro/Plant_Disease_prediction",
     },
     {
-      name: "Job IT",
+      name: "Iris",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        `A mobile package for voice navigation for senior citizens by leveraging the powers of agents and NLP`,
       tags: [
         {
-          name: "react",
+          name: "flutter",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "python",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "LLM",
           color: "pink-text-gradient",
         },
       ],

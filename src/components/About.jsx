@@ -56,7 +56,9 @@ const About = () => {
      <motion.p variants={fadeIn("","",0.1,1)} className='mt-4 text-secondary
         text-[17px] max-w-3xl leading-[30px]
      '>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus aliquam exercitationem pariatur? Unde alias deserunt iusto labore aspernatur amet aliquam est similique optio placeat, aliquid voluptatibus. Earum laboriosam nesciunt sed!
+      I'm a skilled software developer with experience in Full-stack ,Artificial Intelligence and expertise in frameworks like React, Node.js, and Three.js.
+       I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. 
+      Let's work together to bring your ideas to life!
      </motion.p>
      <div className='mt-20 flex flex-wrap sm:gap-10 gap-5 justify-center'>
       {
